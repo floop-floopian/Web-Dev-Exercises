@@ -1,0 +1,23 @@
+h1{
+	font-family: 'Rajdhani', sans-serif;
+	font-weight: 200; 
+	width: 12%;
+	margin:auto;
+}
+table{
+	margin: 100px auto 100px auto;
+}
+
+td{
+	width: 100px;
+	height: 100px;
+}
+.vertical{
+	border-left:1px solid black;
+	border-right:1px solid black;
+}
+
+.horizontal{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+}
